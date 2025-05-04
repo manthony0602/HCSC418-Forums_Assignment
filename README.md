@@ -55,8 +55,8 @@ This assignment was created to help us practice:
 ### Local (Frontend Only)
 
 ```bash
-    npm install
-    npm start
+npm install
+npm start
 ```
 
 Open your browser to http://localhost:3000
@@ -64,7 +64,7 @@ Open your browser to http://localhost:3000
 ### 🐳 Dockerized Backend
 
 ```bash
-    docker compose up --build
+docker compose up --build
 ```
 
 - React frontend: http://localhost:3000
@@ -86,7 +86,7 @@ docker compose down
 ## 🧪 Running Unit Tests
 
 ```bash
-    npm test
+npm test
 ```
 
 ---
